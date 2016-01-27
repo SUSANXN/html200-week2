@@ -73,6 +73,6 @@ function onClick(evt)
   var element4 = document.getElementById("form1").elements.item(3).value;
   var element5 = document.getElementById("form1").elements.item(4).value;
  
-  console.log(static_words1 + element1 + static_word2 + element2 + static_words3 + element3 + static_words4 + element4 + static_words5 + element5);
+  console.log(static_words1 + " " + element1 + " " + static_words2 + " " + element2 + " " + static_words3 + " " + element3 + " " + static_words4 + " " + element4 + " " + static_words5 + " " + element5);
 }
 //example: console.log (greeting);
